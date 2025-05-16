@@ -15,7 +15,10 @@
     "http-errors": "~1.6.3",
     "morgan": "~1.9.1",
     "mysql2": "^3.11.0",
-    "pug": "2.0.0-beta11"
+    "node-schedule": "^2.1.1",
+    "pug": "2.0.0-beta11",
+    "sharp": "^0.34.1",
+    "uuid": "^11.1.0"
   },
   "devDependencies": {
     "eslint-config-prettier": "^9.1.0",
