@@ -21,7 +21,7 @@
 | DB            | MySQL                                             |
 | 예약 스케줄러 | node-schedule                                     |
 | 챗봇 템플릿   | Kakao i 오픈빌더 (TextCard, ItemCard, Carousel)   |
-| 운영환경      | NHN Cloud Linux 인스턴스 (PM2 기반 프로세스 운영) |
+| 운영환경      | NHN Cloud Linux 인스턴스 (Docker 기반 컨테이너 운영) |
 
 ---
 
